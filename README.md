@@ -1,2 +1,2 @@
-# AgeCal
-โปรแกรมคำนวณอายุ V2
+# Age-and-employment-period-calculation-program
+Age and employment period calculation program  โปรแกรมคำนวณอายุและอายุงาน
